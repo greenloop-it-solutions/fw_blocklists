@@ -1,0 +1,28 @@
+138.249.170.0/24 # AS62240 Clouvider 138.249.170.193 known brute force 6/4/26
+45.242.96.0/22 # AS24863 - LINK-NET - 45.242.96.0/22
+45.86.208.0/22 # AS62240 - Clouvider - 45.86.208.0/22
+77.247.126.0/24 # AS62240 - Clouvider - 77.247.126.0/24
+193.163.194.0/24 # AS62240 - Clouvider - 193.163.194.0/24
+193.239.236.0/23 # AS62240 - Clouvider - 193.239.236.0/23
+194.33.45.0/24 # AS62240 - Clouvider - 194.33.45.0/24
+142.252.81.0/24 # AS62240 Clouvider - 142.252.81.0/24
+156.229.246.0/24 # AS62240 Clouvider - 156.229.246.0/24
+193.160.216.0/24 # AS62240 Clouvider - 193.160.216.0/24
+2.57.148.0/24 # AS62240 Clouvider - 2.57.148.0/24
+213.139.192.0/24 # AS62240 Clouvider - 213.139.192.0/24
+45.149.80.0/24 # AS62240 Clouvider - 45.149.80.0/24
+45.149.81.0/24 # AS62240 Clouvider - 45.149.81.0/24
+45.192.40.0/24 # AS62240 Clouvider - 45.192.40.0/24
+46.232.44.0/24 # AS62240 Clouvider - 46.232.44.0/24
+77.83.4.0/22 # AS62240 Clouvider - 77.83.4.0/22
+104.238.204.0/22 # AS23470 - ReliableSite LLC - 104.238.204.0/22
+104.238.220.0/22 # AS23470 - ReliableSite LLC - 104.238.220.0/22
+181.215.182.0/24 # AS174 - COGENT-174 - 181.215.182.0/24
+142.111.112.0/24 # AS214238 HOST TELECOM LTD - 142.111.112.0/24
+142.111.228.0/24 # AS214238 HOST TELECOM LTD - 142.111.228.0/24
+172.120.60.0/24 # AS214238 HOST TELECOM LTD - 172.120.60.0/24
+185.177.72.0/24 # AS211736 (UA-registered, Amsterdam) - SonicWall SSL VPN active scanner (GreyNoise Feb 2026)
+185.156.73.0/24 # AS211736 (UA-registered, Amsterdam) - SonicWall SSL VPN active scanner (GreyNoise Feb 2026)
+88.210.63.0/24 # AS211736 (UA-registered, Amsterdam) - SonicWall SSL VPN active scanner (GreyNoise Feb 2026)
+204.76.203.0/24 # AS211736 (UA-registered, Amsterdam) - SonicWall SSL VPN active scanner (GreyNoise Feb 2026)
+130.12.180.29/32 # AS202412 Omegatech (Seychelles/DE) - SonicWall mega-scanner 18763 sessions (GreyNoise Feb 2026)
