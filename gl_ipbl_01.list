@@ -26,3 +26,7 @@
 88.210.63.0/24 # AS211736 (UA-registered, Amsterdam) - SonicWall SSL VPN active scanner (GreyNoise Feb 2026)
 204.76.203.0/24 # AS211736 (UA-registered, Amsterdam) - SonicWall SSL VPN active scanner (GreyNoise Feb 2026)
 130.12.180.29/32 # AS202412 Omegatech (Seychelles/DE) - SonicWall mega-scanner 18763 sessions (GreyNoise Feb 2026)
+193.149.176.0/24 # AS399629 BL Networks (BitLaunch, US) - UNC6148 OVERSTEP backdoor C2 targeting SonicWall SMA 100 (Google Cloud Jul 2025)
+193.149.180.0/24 # AS399629 BL Networks (BitLaunch, US) - UNC6148 OVERSTEP campaign VPN initial access SonicWall SMA 100 (Google Cloud Jul 2025)
+64.52.80.0/24 # AS399629 BL Networks (BitLaunch, US) - UNC6148 OVERSTEP reverse shell C2 targeting SonicWall SMA 100 (Google Cloud Jul 2025)
+66.165.243.39/32 # AS29802 HIVELOCITY (HVC-AS, US) - Akira ransomware SonicWall VPN exfiltration endpoint (Arctic Wolf Sep 2025)
