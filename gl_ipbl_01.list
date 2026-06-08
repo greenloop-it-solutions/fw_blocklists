@@ -30,3 +30,6 @@
 193.149.180.0/24 # AS399629 BL Networks (BitLaunch, US) - UNC6148 OVERSTEP campaign VPN initial access SonicWall SMA 100 (Google Cloud Jul 2025)
 64.52.80.0/24 # AS399629 BL Networks (BitLaunch, US) - UNC6148 OVERSTEP reverse shell C2 targeting SonicWall SMA 100 (Google Cloud Jul 2025)
 66.165.243.39/32 # AS29802 HIVELOCITY (HVC-AS, US) - Akira ransomware SonicWall VPN exfiltration endpoint (Arctic Wolf Sep 2025)
+42.252.99.59/32 # Akira ransomware SonicWall SSL VPN exploitation IOC - shared by Huntress/GuidePoint/FieldEffect (Centripetal threat research, Aug 2025)
+162.213.194.186/32 # Akira ransomware SonicWall SSL VPN exploitation IOC - shared by Huntress/GuidePoint/FieldEffect (Centripetal threat research, Aug 2025)
+107.158.128.106/32 # Akira ransomware SonicWall SSL VPN exploitation IOC - shared by Huntress/GuidePoint/FieldEffect (Centripetal threat research, Aug 2025)
